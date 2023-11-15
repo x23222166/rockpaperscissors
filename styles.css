@@ -1,0 +1,11 @@
+#comp-choice-row {
+  display: none;
+}
+
+#result-row {
+  display: none;
+}
+
+#result, #comp-choice, .row {
+  margin: 3rem;
+}
